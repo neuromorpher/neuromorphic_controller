@@ -1,5 +1,7 @@
 # neuromorphic_controller
 
+**Status:** Chapter 2 complete (STDP implemented). Next: three-factor dopamine learning. 
+
 ### What is this? 
 
 This is a work-in-progress neuromorphic controller for a physical rover, built to help me understand brain-inspired computing from the ground up. 
