@@ -16,5 +16,5 @@ neuron → synapse → STDP → dopamine → population coding → simulated env
 
 ### How am I learning this?
 
-Every neuron, synapse, and learning rule here is derived by hand and written from scratch. That means no libraries and no copy-pasted code. I use Claude as a Socratic tutor: it breaks the material into chapters, asks me to predict and derive before revealing anything, and generates study guides and exams that I actually sit down and take. My goal is to understand every line well enough to reproduce it from memor. These study guides and exams will be posted in this repository alongside the code. 
+Every neuron, synapse, and learning rule here is derived by hand and written from scratch. That means no libraries and no copy-pasted code. I use Claude as a Socratic tutor: it breaks the material into chapters, asks me to predict and derive before revealing anything, and generates study guides and exams that I actually sit down and take. My goal is to understand every line well enough to reproduce it from memory. These study guides and exams will be posted in this repository alongside the code. 
 
